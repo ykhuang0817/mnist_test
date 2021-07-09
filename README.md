@@ -1,2 +1,2 @@
 # mnist_test
-a deeplearning workflow for mnist dataset, use torchnet and visdom
+A deeplearning workflow for mnist dataset, use torchnet and visdom
